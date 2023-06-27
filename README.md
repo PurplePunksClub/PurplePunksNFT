@@ -1,9 +1,7 @@
-# PurplePunksNFT
+# PurplePunksClub NFT
 Genesis collection for the Purple Punks Club living on the Blockchain
 
 # NFT White Paper
-
-![NFT Logo](nft_logo.png)
 
 Welcome to the Purple Punks NFT White Paper repository! This repository contains the official white paper for our Purple Punks Club Non-Fungible Token (NFT) project. In this document, we outline the key concepts, features, and goals of our NFT community.
 
