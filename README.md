@@ -42,5 +42,5 @@ The NFT White Paper is released under the [MIT License](LICENSE). Feel free to u
 
 We believe that NFTs have the potential to revolutionize the digital world, and we are excited to share our vision and ideas through this white paper. We hope that it inspires you to join us on this journey to unlock the full potential of NFTs.
 
-For more information, please visit our website [www.purplepunksclub.com](https://www.purplepunkslcub.com) or contact us at [purplepunksclub@gmail.com](mailto:purplepunks@gmail.com).
+For more information, please visit our website [www.purplepunks.com](https://www.purplepunks.com) or contact us at [purplepunksclub@gmail.com](mailto:purplepunks@gmail.com).
 
